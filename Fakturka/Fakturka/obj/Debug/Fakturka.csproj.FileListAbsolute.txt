@@ -1,0 +1,9 @@
+c:\users\dawid\documents\visual studio 2013\Projects\Fakturka\Fakturka\bin\Debug\Fakturka.exe.config
+c:\users\dawid\documents\visual studio 2013\Projects\Fakturka\Fakturka\obj\Debug\Fakturka.csprojResolveAssemblyReference.cache
+c:\users\dawid\documents\visual studio 2013\Projects\Fakturka\Fakturka\obj\Debug\Fakturka.Form1.resources
+c:\users\dawid\documents\visual studio 2013\Projects\Fakturka\Fakturka\obj\Debug\Fakturka.Properties.Resources.resources
+c:\users\dawid\documents\visual studio 2013\Projects\Fakturka\Fakturka\obj\Debug\Fakturka.csproj.GenerateResource.Cache
+c:\users\dawid\documents\visual studio 2013\Projects\Fakturka\Fakturka\bin\Debug\Fakturka.exe
+c:\users\dawid\documents\visual studio 2013\Projects\Fakturka\Fakturka\bin\Debug\Fakturka.pdb
+c:\users\dawid\documents\visual studio 2013\Projects\Fakturka\Fakturka\obj\Debug\Fakturka.exe
+c:\users\dawid\documents\visual studio 2013\Projects\Fakturka\Fakturka\obj\Debug\Fakturka.pdb
